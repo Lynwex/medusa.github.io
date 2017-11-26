@@ -2100,6 +2100,7 @@ Tiny Pop (UK):Europe/London
 Toei Channel:Asia/Tokyo
 Tokai TV (JP):Asia/Tokyo
 Tokyo Broadcasting System:Asia/Tokyo
+Tokyo Broadcasting System Television:Asia/Tokyo
 Tokyo Metropolitan Television:Asia/Tokyo
 Tokyo MX:Asia/Tokyo
 Toon Disney:US/Eastern
